@@ -5,7 +5,7 @@ export default function LandingPage() {
     <div className="min-h-screen bg-black text-white">
       <section className="relative h-screen flex flex-col">
         <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/40 to-black z-10" />
-        <div className="absolute inset-0 bg-[url('https://assets.nflxext.com/ffe/siteui/vlv3/fc164b4b-f085-44ee-bb7f-ec7df8539571/d3b4e982-7be3-4e9c-9cb3-b6e0e0f1e0a0/IN-en-20240101-popsignuptwoithcompacttout-perspective_alpha_website_large.jpg')] bg-cover bg-center" />
+        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1574375927938-d5a98e8d1302?w=1920&q=80')] bg-cover bg-center" />
 
         <nav className="relative z-20 flex items-center justify-between px-6 md:px-12 py-6">
           <h1 className="text-red-600 text-3xl md:text-4xl font-extrabold tracking-tight">NETFLIX</h1>
@@ -51,7 +51,7 @@ export default function LandingPage() {
             <p className="text-lg text-gray-400 mt-4">Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.</p>
           </div>
           <div className="flex-1 relative">
-            <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png" alt="TV" className="relative z-10" />
+            <img src="https://images.unsplash.com/photo-1593784991095-a205069470b6?w=600&q=80" alt="TV" className="relative z-10" />
           </div>
         </div>
       </section>
@@ -65,7 +65,7 @@ export default function LandingPage() {
             <p className="text-lg text-gray-400 mt-4">Save your favorites easily and always have something to watch.</p>
           </div>
           <div className="flex-1">
-            <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg" alt="Mobile" className="rounded-lg" />
+            <img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80" alt="Mobile" className="rounded-lg" />
           </div>
         </div>
       </section>

@@ -20,7 +20,7 @@ export default function LoginPage() {
 
   return (
     <div className="min-h-screen bg-black flex items-center justify-center px-4">
-      <div className="absolute inset-0 bg-[url('https://assets.nflxext.com/ffe/siteui/vlv3/fc164b4b-f085-44ee-bb7f-ec7df8539571/d3b4e982-7be3-4e9c-9cb3-b6e0e0f1e0a0/IN-en-20240101-popsignuptwoithcompacttout-perspective_alpha_website_large.jpg')] bg-cover opacity-30" />
+      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1574375927938-d5a98e8d1302?w=1920&q=80')] bg-cover opacity-30" />
       <div className="relative z-10 w-full max-w-md bg-black/75 rounded-md p-12">
         <h1 className="text-3xl font-bold text-white mb-8">Sign In</h1>
         {error && <div className="bg-orange-500/20 border border-orange-500 text-orange-300 p-3 rounded mb-4 text-sm">{error}</div>}
